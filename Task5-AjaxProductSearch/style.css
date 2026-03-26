@@ -1,0 +1,15 @@
+body{
+font-family:Arial;
+text-align:center;
+}
+
+input{
+width:250px;
+padding:8px;
+margin:20px;
+}
+
+li{
+list-style:none;
+padding:5px;
+}
